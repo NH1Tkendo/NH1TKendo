@@ -3,6 +3,8 @@ Mình tên là Ngô Bá Tài
 
 ![](https://komarev.com/ghpvc/?username=NH1Tkendo)
 
+![](https://hit.yhype.me/github/profile?account_id=176918177)
+
 Sinh viên khoa Công nghệ thông tin khóa 46 - Đại học Đà Lạt
 
 Thông tin liên lạc:

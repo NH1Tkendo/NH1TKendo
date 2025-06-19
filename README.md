@@ -3,6 +3,7 @@
 # 👋 Hey there, I'm NH1Tkendo!
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Back+End+Developer;JavaScript+Go)](https://git.io/typing-svg)
+
 [![Profile Views](https://komarev.com/ghpvc/?username=NH1Tkendo)](https://github.com/NH1TKendo)
 
 </div>

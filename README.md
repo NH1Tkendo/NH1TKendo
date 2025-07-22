@@ -31,6 +31,6 @@ Sinh viên khoa Công nghệ thông tin khóa 46 - Đại học Đà Lạt
 
 Thông tin liên lạc:
 * Gmail: ngobatai1711@gmail.com
-* Facebook: [https://www.facebook.com/tai.ngoba/?locale=vi_VN](https://www.facebook.com/tai.ngoba/?locale=vi_VN)
+* Facebook: [Facebook](https://www.facebook.com/tai.ngoba/?locale=vi_VN)
 
 

@@ -33,7 +33,19 @@ Thông tin liên lạc:
 * Gmail: ngobatai1711@gmail.com
 * Facebook: [Facebook](https://www.facebook.com/tai.ngoba/?locale=vi_VN)
 
-[![Gemini Certified Educator](https://api.accredible.com/v1/frontend/credential_website_embed_image/badge/d4ee53e8-8f90-4825-92ed-68558463a00e)](https://edu.google.accredible.com/d4ee53e8-8f90-4825-92ed-68558463a00e)
+## 🏆 Certifications
+
+<p align="center">
+  <a href="https://edu.google.accredible.com/d4ee53e8-8f90-4825-92ed-68558463a00e">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/168919837" 
+         alt="Gemini Certified Educator" 
+         width="600"/>
+  </a>
+</p>
+
+
+
+
 
 
 

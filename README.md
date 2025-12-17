@@ -43,6 +43,14 @@ Thông tin liên lạc:
   </a>
 </p>
 
+<p align="center">
+  <a href="https://edu.google.accredible.com/d4ee53e8-8f90-4825-92ed-68558463a00e">
+    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/168919837" 
+         alt="Gemini Certified Educator" 
+         width="600"/>
+  </a>
+</p>
+
 
 
 

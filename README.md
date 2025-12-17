@@ -44,9 +44,17 @@ Thông tin liên lạc:
 </p>
 
 <p align="center">
-  <a href="https://edu.google.accredible.com/d4ee53e8-8f90-4825-92ed-68558463a00e">
-    <img src="https://api.accredible.com/v1/frontend/credential_website_embed_image/certificate/168919837" 
+  <a href="https://edu.google.accredible.com/fa6c1b88-ebb9-498d-8722-baf7976d407f#acc.U3vW8cb7">
+    <img src="https://pdf.ms.credential.net/v2/certificate/image?env=production&credential=ku5bwxbj&variant=medium" 
          alt="Gemini Certified Educator" 
+         width="600"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://edu.google.accredible.com/fa6c1b88-ebb9-498d-8722-baf7976d407f#acc.U3vW8cb7">
+    <img src="/md_assets/Cert_JavaScript.jpg" 
+         alt="JavaScript certificate" 
          width="600"/>
   </a>
 </p>
